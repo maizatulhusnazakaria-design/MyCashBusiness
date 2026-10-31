@@ -11,7 +11,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Extract Android project ZIP
-        run: unzip -o MYcashBusiness_Android_Project_v1.3.zip
+        run: unzip MYcashBusiness_Android_Project_v1.3_NEW.zip
 
       - name: Set up Java 17
         uses: actions/setup-java@v4
