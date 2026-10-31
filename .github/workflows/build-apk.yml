@@ -1,3 +1,4 @@
+YAML
 
 name: Build MyCash Business APK
 
@@ -34,4 +35,3 @@ jobs:
           name: MyCashBusiness-debug-apk
           path: MyCashBusiness/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
-concurrency: 
