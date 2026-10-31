@@ -1,7 +1,7 @@
 
 name: Build MyCash Business APK
 
-on:
+'on':
   workflow_dispatch:
 
 jobs:
